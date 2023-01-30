@@ -3,8 +3,8 @@ package com.usthe.sureness.handler;
 import com.usthe.sureness.subject.SubjectSum;
 import com.usthe.sureness.util.SurenessConstant;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpSession;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpSession;
 import static java.util.Objects.isNull;
 
 /**
