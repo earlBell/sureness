@@ -44,14 +44,14 @@
     </scm>
 
     <properties>
-        <java.version>1.8</java.version>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <java.version>17</java.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jakarta.servlet.version>6.0.0</jakarta.servlet.version>
         <jakarta.ws.rs.version>3.1.0</jakarta.ws.rs.version>
         <jjwt.version>0.11.2</jjwt.version>
-        <yaml.version>1.26</yaml.version>
+        <yaml.version>1.29</yaml.version>
         <xml.bind.version>4.0.0</xml.bind.version>
         <slf4j.version>1.7.21</slf4j.version>
         <junit.version>5.7.0</junit.version>
@@ -73,7 +73,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>5.1.5.RELEASE</version>
+            <version>6.0.4</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
