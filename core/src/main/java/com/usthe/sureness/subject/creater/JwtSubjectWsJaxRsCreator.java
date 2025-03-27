@@ -6,7 +6,7 @@ import com.usthe.sureness.subject.support.JwtSubject;
 import com.usthe.sureness.util.JsonWebTokenUtil;
 import com.usthe.sureness.util.SurenessConstant;
 
-import javax.ws.rs.container.ContainerRequestContext;
+import jakarta.ws.rs.container.ContainerRequestContext;
 
 /**
  * the subject creator support creating JwtSubject from websocket

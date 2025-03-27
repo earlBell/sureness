@@ -7,7 +7,7 @@ import com.usthe.sureness.util.JsonWebTokenUtil;
 import com.usthe.sureness.util.ServletUtil;
 import com.usthe.sureness.util.SurenessConstant;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 /**
  * the subject creator support creating JwtSubject from websocket

@@ -5,7 +5,7 @@ import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.*;
 import io.jsonwebtoken.security.SignatureException;
 
-import javax.xml.bind.DatatypeConverter;
+import jakarta.xml.bind.DatatypeConverter;
 import java.security.Key;
 import java.util.*;
 import java.util.regex.Pattern;

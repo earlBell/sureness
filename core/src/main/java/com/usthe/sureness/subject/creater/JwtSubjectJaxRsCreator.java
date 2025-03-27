@@ -8,7 +8,7 @@ import com.usthe.sureness.util.SurenessConstant;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import javax.ws.rs.container.ContainerRequestContext;
+import jakarta.ws.rs.container.ContainerRequestContext;
 
 
 /**

@@ -5,7 +5,7 @@ import com.usthe.sureness.subject.SubjectCreate;
 import com.usthe.sureness.subject.support.NoneSubject;
 import com.usthe.sureness.util.ServletUtil;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 /**
  * the subject creator support creating NoneSubject
